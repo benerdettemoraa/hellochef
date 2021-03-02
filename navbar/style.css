@@ -188,3 +188,238 @@
     margin-top: 40px;
     margin-left:150px;
 }
+.ratings{
+    color: rgb(255, 136, 0);
+    font-size: 30px;
+}
+.customers h1{
+    color: rgba(56, 55, 55, 0.842);
+  font-size: 50px;
+  font-family: sans-serif;
+}
+.customers{
+    text-align: center;
+    margin-top: 50px;
+
+}
+.customers p{
+    color: rgba(77, 74, 74, 0.842);
+  font-size: 30px;
+  font-family: sans-serif;
+}
+.ratingsBox{
+    display:flex;
+    width:100%;
+    justify-content: center;
+}
+.reviews p{
+    font-size: 18px;
+    font-weight: lighter;
+    font-family: sans-serif;
+}
+.facebook{
+    font-size: 20px;
+    color: rgb(22, 22, 202);
+
+}
+.reviews{
+    
+    display:flex;
+    width:100%;
+    justify-content: center;
+}
+.comments{
+    display: flex;
+    justify-content: center;
+   
+
+}
+.comments img{
+    border-radius: 8px;
+
+
+}
+.comments p{
+    font-size: 15px;
+    font-weight: lighter;
+    font-family: sans-serif;  
+    width: 300px;
+}
+.elena{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin-right: 30px;
+}
+.anne{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.inspiration{
+    background-image: url('img/HC_BeefFajitasBellpeppers.jpeg');
+    background-size: cover;
+    height: 80vh;
+    width: 100%;
+    background-position: center;
+    margin-top: 80px;
+    display: flex;
+    justify-content: space-between;
+    flex-direction: column;
+    align-items: center;
+ 
+}
+.inspiration h1{
+    color: white;
+    font-size: 50px;
+    font-family: sans-serif;
+    margin-top: 50px;
+
+}
+.meals p{
+    color: white;
+    font-size: 18px;
+    font-family: sans-serif;
+    margin-top: 50px;
+    font-weight: bold;
+
+}
+.meals{
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+    margin-bottom: 50px;
+}
+.meals button{
+    background-color: #ec1d24;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    padding-left: 30px;
+    padding-right: 30px;
+    font-size: 20px;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    width: 310px;
+    font-weight: bold;
+   
+}
+.dots{
+    display: flex;
+
+}
+
+.dotItem{
+    background-color: gray;
+    height: 10px;
+    width: 10px;
+    border-radius: 50%;
+    margin-left: 3px;
+    margin-right: 3px;
+}
+.dotItemRed{
+    background-color: red;
+    height: 10px;
+    width: 10px;
+    border-radius: 50%;
+    margin-left: 3px;
+    margin-right: 3px;
+}
+.partners{
+   
+    margin-top: 50px;
+}
+.partnersImg{
+    display: flex;
+    justify-content: center;
+    
+}
+.partnersImg img{
+    width: 50px;
+    margin-left: 60px;
+
+}
+.partnersImg h1{
+    font-size: 15px;
+    font-family: sans-serif;
+    width: 350px;
+
+}
+.tok2016{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin-right: 100px;
+
+}
+.tok2017{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin-left: 100px;
+
+
+}
+.partnersLogo{
+    display: flex;
+    margin-top: 30px;
+    margin-left: 50px;
+
+}
+.partnersLogo img{
+    width: 60px;
+    height: 60px;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+.olivia{
+    background-image: url('img/chef_bg.jpeg');
+    background-size: cover;
+    height: 80vh;
+    width: 100%;
+    margin-top: 100px;
+
+}
+.oliviaChef{
+    margin-top: 200px;
+    margin-left: 100px;
+    padding: 40px 0 0 0;
+}
+.oliviaChef h1{
+    color: white;
+    font-size: 38px;
+    font-family: sans-serif;
+    margin-top: 50px;
+    
+
+}
+.oliviaChef p{
+    color: white;
+    font-size: 15px;
+    font-weight: lighter;
+    font-family: sans-serif;
+    width: 500px;
+    margin-top: 25px;
+
+
+}
+.oliviaChef button{
+    background-color: #ec1d24;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    padding-left: 30px;
+    padding-right: 30px;
+    font-size: 20px;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    width: 260px;
+    font-weight: bold;
+    margin-top: 25px;
+
+}
